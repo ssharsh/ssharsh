@@ -1,9 +1,5 @@
 ## Hi, I'm Harsh Sheth👋
 
-<!--
-**ssharsh/ssharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## Hi, I'm Harsh Sheth👋
 🧑‍💻 Passionate about agentic AI and ML
 🌱 I am currently learning RAG  
 👨🏽‍💻 All of my projects are available on  
