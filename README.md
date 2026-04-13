@@ -1,8 +1,8 @@
 ## Hi, I'm Harsh Sheth👋
 
-🧑‍💻 Passionate about agentic AI and ML
-🌱 I am currently learning RAG
-👨🏽‍💻 All of my projects are available on [github.com/ssharsh](https://github.com/ssharsh?tab=repositories) 
+🧑‍💻 Passionate about agentic AI and ML  
+🌱 I am currently learning RAG  
+👨🏽‍💻 All of my projects are available on [github.com/ssharsh](https://github.com/ssharsh?tab=repositories)  
 📫 Reach Out: harshsheth206@gmail.com
 
 ## 🌐 Socials
